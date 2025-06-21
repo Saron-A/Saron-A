@@ -1,4 +1,5 @@
-##👋 Hi, I’m **Saron Abebe** <br>— a Software Engineering student at AASTU and an aspiring full-stack web developer.
+## Hi, I am Saron Abebe
+     - A Software Engineering Student at AASTU and aspiring full-stack web developer
 
 💻 I focus on building clean, responsive front-end applications using **HTML**, **CSS**, **JavaScript**, and **React**, with growing experience in **Flutter** and back-end tools through **The Odin Project**.
 
