@@ -12,7 +12,7 @@
 
 🎯 I’m passionate about accessible design, meaningful UX, and building tools that reflect culture and creativity.
 
-🔭 Currently learning: Full-stack development (Node.js, Express, MongoDB) and Mobile App Development using React Native.
+🔭 Currently learning: Full-stack development (Node.js, Express, MongoDB) and Mobile App Development using React Native.  
 📫 Let’s connect! [Portfolio](https://saron-a-s-portfolio.netlify.app)
 
 
