@@ -7,10 +7,10 @@
 - 🛒 A React Shopping Cart App with dynamic state management
 - 📚 A Book Downloader App using the Google Books API
 - 🍼 A Daycare Website
-- 🧠 A Flutter Habit Tracker (mobile prototype)
+- 🧠 A React-Native To-do app (mobile prototype)
 - ✍️ A personal Poetry Blog where I combine design with creativity
 
-🎯 I’m passionate about accessible design, meaningful UX, and building tools that reflect culture and creativity.
+🎯 I’m passionate about accessible design, meaningful UX, and building tools that reflect creativity and solve real-life problems.
 
 🔭 Currently learning: Full-stack development (Node.js, Express, MongoDB) and Mobile App Development using React Native.  
 📫 Let’s connect! [Portfolio](https://saron-a-s-portfolio.netlify.app)
