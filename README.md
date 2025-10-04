@@ -1,7 +1,7 @@
 ## Hi, I am Saron Abebe
-     - A Software Engineering Student at AASTU and aspiring full-stack web developer
+     - A Software Engineering Student and aspiring full-stack web developer
 
-💻 I focus on building clean, responsive front-end applications using **HTML**, **CSS**, **JavaScript**, and **React**, with growing experience in **Flutter** and back-end tools.
+💻 I focus on building clean, responsive front-end applications using **HTML**, **CSS**, **JavaScript**, and **React**, with growing experience in back-end tools.
 
 🚀 Projects I've worked on:
 - 🛒 A React Shopping Cart App with dynamic state management
