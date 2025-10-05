@@ -13,7 +13,7 @@
 🎯 I’m passionate about accessible design, meaningful UX, and building tools that reflect creativity and solve real-life problems.
 
 🔭 Currently learning: Full-stack development (Node.js and Express) and Mobile App Development using React Native.  
-📫 Let’s connect! [Portfolio]([https://saron-a-s-portfolio.netlify.app](https://saron-a-github-io.onrender.com/))
+📫 Let’s connect! [Portfolio](https://saron-a-github-io.onrender.com/)
 
 
 
